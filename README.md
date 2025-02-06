@@ -80,12 +80,6 @@ For real-time predictions, we considered deploying on **Azure Cloud**:
 2. **Cloud Deployment Issues** - Faced **TensorFlow & Azure conflicts**, suggested **Dockerization**.
 3. **Model Limitation** - It **only detects drunkenness**, does not predict future behavior.
 
-## 🏆 Key Takeaways
-✔ Designed a **real-world AI application** for behavioral analysis.  
-✔ Developed a **solid data pipeline** for training.  
-✔ Planned a **cloud-based deployment** strategy.  
-✔ Addressed **security & privacy challenges**.  
-✔ Dealt with **technical issues** related to cloud integration.  
 
 ## 🚀 Future Scope
 🔹 Implement **real-time mobile inference**.  
@@ -93,30 +87,3 @@ For real-time predictions, we considered deploying on **Azure Cloud**:
 🔹 Optimize CNN for **higher accuracy & efficiency**.  
 🔹 Conduct **real-world tests** to validate the model.
 
-## 📎 Dataset Files
-📂 `drunk.csv` - Raw drunk accelerometer data  
-📂 `straight.csv` - Raw sober accelerometer data  
-📂 `drunk_new.csv` - Preprocessed dataset  
-📂 `drunk_new_2.csv` - Further cleaned dataset  
-📂 `final_drunk.csv` - Final dataset for training  
-
-## 🏆 Team Members
-- **[Your Name]** - AI & ML Research, Model Design  
-- **[Teammate Name]** - Data Processing & Cleaning  
-- **[Teammate Name]** - Cloud Deployment & API  
-- **[Teammate Name]** - Security & Compliance  
-
-## 📌 How to Use This Repo
-💻 Clone the repo:  
-```bash
-git clone https://github.com/yourusername/AlcoGuard.git
-```
-📂 Navigate to the directory:  
-```bash
-cd AlcoGuard
-```
-📊 Explore the datasets and design docs.  
-
----
-
-This README documents everything **exactly as we designed it**, making it ready to upload on **GitHub**. 🚀
