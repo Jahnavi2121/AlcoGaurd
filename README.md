@@ -1,7 +1,7 @@
 # AlcoGaurd
 
 
-#**AlcoGuard: Detecting Drunkenness Using Accelerometer Data**
+**AlcoGuard: Detecting Drunkenness Using Accelerometer Data**
 
 ## 📌 Project Overview
 AlcoGuard is a **project designed to detect drunkenness** using **smartphone accelerometer data**. The idea was to analyze motion patterns and classify whether a person is **drunk or sober** using **deep learning techniques**.
